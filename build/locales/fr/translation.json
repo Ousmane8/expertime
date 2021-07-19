@@ -1,0 +1,126 @@
+{
+  "titre_general" : "Toutes les demandes",
+  "filtered":{
+    "1" : "Filtre",
+    "Brander" : {
+      "1" : "Marque 1",
+      "2" : "Marque 2",
+      "3" : "Marque 3",
+      "4" : "Marque 4",
+      "5" : "Marque 5",
+      "6" : "Marque 6",
+      "7" : "Marque 7",
+      "8" : "Marque 8",
+      "9" : "Marque 9",
+      "10" : "Marque 10",
+      "11" : "Marque 11",
+      "12" : "Marque 12",
+      "13" : "Marque 13",
+      "14" : "Marque 14",
+      "15" : "Marque 15",
+      "16" : "Marque 16",
+      "17" : "Marque 17",
+      "18" : "Marque 18",
+      "19" : "Marque 19",
+      "20" : "Marque 20"
+    },
+    "3" : " Filtrer "
+  },
+  "table_titre":{
+    "1" : "Statut",
+    "2" : "Nom",
+    "3" : "Type",
+    "4" : "Marque",
+    "5" : " Dépôt "
+  },
+  "status" : {
+    "1" : "Soumis",
+    "2" : " Brouillon ",
+    "3" : " À Revoir ",
+    "4" : " Validé ",
+    "5" : " Rejeté ",
+    "6" : "À Modifier"
+  },
+  "camp_name" : {
+    "1" : "Titre de la campagne Test 1",
+    "2" : "Titre de la campagne Test 2",
+    "3" : "Campagne 3",
+    "4" : "Campagne 4",
+    "5" : "Titre de la campagne Test 5",
+    "6" : "Titre de la campagne Test 6",
+    "7" : "Test 7",
+    "8" : "Test 8",
+    "9" : "Titre de la campagne Test 9"
+  },
+  "type" : {
+    "1" : " Conseil ",
+    "2" : " Demande "
+  },
+  "brander_camp" : {
+    "1" : "Marque 13",
+    "2" : "Marque 7",
+    "3" : "Marque 15",
+    "4" : "Marque 8",
+    "5" : "Brand 8",
+    "6" : "Marque 7",
+    "7" : "Marque 22",
+    "8" : "Marque 15",
+    "9" : "Brand 12"
+  },
+  "footer" : "Tous droits réservés.",
+  "modal_form" : {
+    "name_modal" : "Modifier la campagne",
+    "brand_camp" : " Marque * ",
+    "name_camp" : "Nom de la campagne *",
+    "decision_camp" : "Date limite de décision *",
+    "media_campagne": "Médias *",
+    "media_camp" : {
+      "name_media":{
+        "1" : "COLLABORATION",
+        "2" : "NOUVEAU_PRODUIT_INNOVATION",
+        "3" : "PRINT",
+        "4" : "RADIO",
+        "5" : "PARRAINAGE",
+        "6" : "SITE WEB",
+        "7" : "ÉTIQUETAGE_EMBALLAGE",
+        "8" : "OOH",
+        "9" : "PROMOTIONS",
+        "10" : "SOCIAL_MEDIA",
+        "11" : "TVC_VIDEOS_ENLIGNE",
+        "12" : "AUTRES"
+      },
+      "val_media" : {
+        "1" : "Collaboration",
+        "2" : "Nouveau produit/innovation",
+        "3" : "Impression",
+        "4" : "Radio",
+        "5" : "Parrainage",
+        "6" : "Site Internet",
+        "7" : "Etiquetage/Emballage",
+        "8" : "OOH",
+        "9" : "Promotions",
+        "10" : "Médias sociaux",
+        "11" : "TVC/Vidéos en ligne",
+        "12" : "Autres"
+      },
+      "label_media" : {
+        "1" : "Collaboration",
+        "2" : "Nouveau produit/innovation",
+        "3" : "Impression",
+        "4" : "Radio",
+        "5" : "Parrainage",
+        "6" : "Site Internet",
+        "7" : "Etiquetage/Emballage",
+        "8" : "OOH",
+        "9" : "Promotions",
+        "10" : "Médias sociaux",
+        "11" : "TVC/Vidéos en ligne",
+        "12" : "Autres"
+      }
+    },
+    "button_modal_camp" : {
+      "1" : "Mise à jour",
+      "2" : "Annuler"
+    }
+  }
+}
