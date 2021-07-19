@@ -1,0 +1,126 @@
+{
+  "titre_general":"All Requests",
+  "filtered":{
+    "1": "Filter",
+    "Brander": {
+      "1": "Brand 1",
+      "2": "Brand 2",
+      "3": "Brand 3",
+      "4": "Brand 4",
+      "5": "Brand 5",
+      "6": "Brand 6",
+      "7": "Brand 7",
+      "8": "Brand 8",
+      "9": "Brand 9",
+      "10": "Brand 10",
+      "11": "Brand 11",
+      "12": "Brand 12",
+      "13": "Brand 13",
+      "14": "Brand 14",
+      "15": "Brand 15",
+      "16": "Brand 16",
+      "17": "Brand 17",
+      "18": "Brand 18",
+      "19": "Brand 19",
+      "20": "Brand 20"
+    },
+    "3": "Filter"
+  },
+  "table_titre":{
+    "1": "Status",
+    "2": "Name",
+    "3": "Type",
+    "4": "Brand",
+    "5": "Submission"
+  },
+  "status": {
+    "1": "Submitted",
+    "2": "Draft",
+    "3": "To Review",
+    "4": "Validated",
+    "5": "Rejected",
+    "6": "To Modify"
+  },
+  "camp_name": {
+    "1": "Campaign title Test 1",
+    "2": "Campaign title Test 2",
+    "3": "Campaign 3",
+    "4": "Campaign 4",
+    "5": "Campaign title Test 5",
+    "6": "Campaign title Test 6",
+    "7": "Test 7",
+    "8": "Test 8",
+    "9": "Campaign title Test 9"
+  },
+  "type": {
+    "1": "Advice",
+    "2": "Request"
+  },
+  "brander_camp": {
+    "1": "Brand 13",
+    "2": "Brand 7",
+    "3": "Brand 15",
+    "4": "Brand 8",
+    "5": "Brand 8",
+    "6": "Brand 7",
+    "7": "Brand 22",
+    "8": "Brand 15",
+    "9": "Brand 12"
+  },
+  "footer": "All rights reserved.",
+  "modal_form": {
+    "name_modal": "Edit the campaign",
+    "brand_camp": "Brand *",
+    "name_camp": "Campaign name *",
+    "decision_camp": "Deadline for decision *",
+    "media_campagne": "Media *",
+    "media_camp": {
+      "name_media":{
+        "1": "COLLABORATION",
+        "2": "NEW_PRODUCT_INNOVATION",
+        "3": "PRINT",
+        "4": "RADIO",
+        "5": "SPONSORSHIP",
+        "6": "WEBSITE",
+        "7": "LABELING_PACKAGING",
+        "8": "OOH",
+        "9": "PROMOTIONS",
+        "10": "SOCIAL_MEDIA",
+        "11": "TVC_ONLINE_VIDEOS",
+        "12": "OTHERS"
+      },
+      "val_media": {
+        "1": "Collaboration",
+        "2": "New Product/innovation",
+        "3": "Print",
+        "4": "Radio",
+        "5": "Sponsorship",
+        "6": "Website",
+        "7": "Labeling/Packaging",
+        "8": "OOH",
+        "9": "Promotions",
+        "10": "Social Media",
+        "11": "TVC/Online videos",
+        "12": "Others"
+      },
+      "label_media": {
+        "1": "Collaboration",
+        "2": "New Product/innovation",
+        "3": "Print",
+        "4": "Radio",
+        "5": "Sponsorship",
+        "6": "Website",
+        "7": "Labeling/Packaging",
+        "8": "OOH",
+        "9": "Promotions",
+        "10": "Social Media",
+        "11": "TVC/Online videos",
+        "12": "Others"
+      }
+    },
+    "button_modal_camp": {
+      "1": "Update",
+      "2": "Cancel"
+    }
+  }
+}
